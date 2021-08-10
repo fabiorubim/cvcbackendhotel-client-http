@@ -52,7 +52,7 @@
 
 		<dependency>
 			<groupId>br.com.leisuretravel</groupId>
-			<artifactId>leisure-travel-canonico</artifactId>
+			<artifactId>leisure-travel-canonical</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 
